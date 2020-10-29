@@ -6,4 +6,6 @@ Hello, world!
 
 Hi there!
 
+*Привет*
+
 **Пока**
